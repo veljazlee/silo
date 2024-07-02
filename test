@@ -1,0 +1,60 @@
+{
+  "aboutMe": {
+    "personalInfo" : {
+      "name":"VELJKO GRCAK",
+      "rows" : [
+        {
+          "dataName":"education:",
+          "data":"master degree in math and computer science, Belgrade University"
+        },
+        {
+          "dataName":"job:",
+          "data":"currently working as math teacher"
+        },
+        {
+          "dataName":"skills:",
+          "data":"HTML, CSS, JS, REACT"
+        }
+        ]
+    },
+    "description":"Hello, i am a beginner in frontend developing with a solid foundation in modern ReactJS with functional components and hooks. If you are seeking passionate and dedicated candidate for your React team, i am confident that my skills and enthusiasm make me a valuable asset to your team. Looking forward to the opportunity to discuss how my qualifications align with your needs.",
+    "contact": [
+      {
+        "dataName":"email:",
+        "data":"grcakveljko@gmail.com"
+      },
+      {
+        "dataName":"viber:",
+        "data":"+381642692661"
+      }
+      ]
+  },
+  "aboutGame": {
+    "personalInfo": {
+      "name": "Tic-Tac-Toe",
+      "rows": [
+        {
+          "dataName":"author:",
+          "data":"Veljko Grcak"
+        },
+        {
+          "dataName":"build with:",
+          "data":"ReactJS with functional components and hooks"
+        }
+        ]
+    },
+    "description": "This is a classic Tic-Tac-Toe game spiced up with motives from the Star Wars saga. Initially, the game starts in 1 player mode. You are Master Yoda and you fight against Darth Vader. If you want, you can change your name, typing it in input field below playing board. Changing Darth Vader's name is not possible in 1 player mode. Darth Vader has some logic, but it's not impossible to win, also you can lose if you are not careful. While playing, you can read most known qoutes from my two favourite characters from the movie. There are total 85 qoutes and they appear randomly every 10 seconds. Endpoint for qoutes is given below. You can also play with your friend in 2 player game mode. Enjoy playing and let the force be with you! "  ,
+    "contact": [
+      {
+        "dataName":"endpoint:",
+        "data":"https://api.npoint.io/588d620b74be9add8f81"
+      },
+      {
+        "dataName":"github:",
+        "data":"https://github.com/veljazlee/Tic-Tac-Toe.git"
+      }
+      ]
+  }
+  
+  
+}
